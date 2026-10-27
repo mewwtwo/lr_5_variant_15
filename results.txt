@@ -1,0 +1,9 @@
+Completed A3 (1 s)
+Completed A4 (1 s)
+Completed C (1 s)
+Completed A2 (7 s)
+Completed A1 (7 s)
+Completed B (1 s)
+Completed D (1 s)
+Time: 9.00073 s
+Work is done!
